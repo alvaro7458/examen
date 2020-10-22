@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/examen":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/examen","hostpath":"/home/alvaro/examen","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/alvaro/examen","disabled":false,"__vagrantfile":true}}}
